@@ -1,6 +1,6 @@
 # hello-world
 
- Hi Everone.
+ Hello.
  
  Thank you for visiting my page!
 
